@@ -28,6 +28,15 @@ Note Archives
 
 
 ## Additional Information
+Please click on the following links to be redirected to the GitHub profiles of the programmers who collaborated this project:
+
+Caleb Dunahee: https://github.com/cdunahee36
+
+Joshua Vaslie: https://github.com/joshuavaslie2021
+
+Rafael Rosas: https://github.com/rafaelrosas19
+
+Peter O'Connor: https://github.com/ftrcafekundera
 
 
 ## License
