@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS wendi_db;
+
+CREATE DATABASE wendi_db;
