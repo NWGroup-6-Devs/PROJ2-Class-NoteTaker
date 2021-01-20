@@ -2,3 +2,26 @@ form.signup,
 form.login {
   margin-top: 50px;
 }
+
+.container1 {
+  width: 800px;
+  height: 800px;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: row-reverse;
+}
+
+.wendiBox {
+  width: 200px;
+  height: 100px;
+  border: 4px solid gray;
+  padding: 3px;
+  margin: 8px;
+  text-align: center;
+}
+
+.wendiText {
+  font-size: 50px;
+  font-style: italic;
+  text-decoration: underline;
+}
