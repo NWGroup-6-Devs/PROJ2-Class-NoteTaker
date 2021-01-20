@@ -19,7 +19,17 @@ As mentioned above, this web page consists of three interfaces: the log-in page,
 
 ## Tech Used
 This web page was created using HTML, CSS, JavaScript, SQL, Handlebars, node, express, and a Sequelize ORM. Our team utilized (INSERT NAME) – a public CSS library – to create a more aesthetically pleasing interface for the user. Moreover, we made use of Kanban on GitHub to create, delegate, and manage tasks for this project; tasks were divided into two groups: front-end and back-end.
+
 During the initial stages of the project, we used a wire-framing tool to create a blueprint for the web page, which helped us visualize and establish a preliminary structural layout. A skeleton was created for each individual page of our application. Below, please find images of our initial schematics, which were created on wireframe.cc.
+
+User Log-In
+![WENDI_Wireframe_User_LogIn (2)](https://user-images.githubusercontent.com/71603259/105117610-c61a2e00-5a9a-11eb-8563-c8ffb6b01eb7.GIF)
+
+Note Creator
+![WENDI_Wireframe_User_Interface (1)](https://user-images.githubusercontent.com/71603259/105117573-b7337b80-5a9a-11eb-8540-e4083800eda6.GIF)
+
+Note Archives
+![WENDI_Wireframe_Archives (3)](https://user-images.githubusercontent.com/71603259/105116878-8bfc5c80-5a99-11eb-8fae-3496cd6de9d5.GIF)
 
 ## Sources:
 Wireframe: https://wireframe.cc/ 
