@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Wendi Homepage</title>
+    <title>Wendi App Homepage</title>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <script
@@ -17,41 +17,57 @@
   </head>
   <body>
 
-    <main class="container1">
-      <article class="wendiBox">
-        <header class="wendiText">Wendi</header>
-      </article>
-    <main>
+    <content class="main-1">
+      <main class="container3">
+        <content class="pic">
+          <div class="picture"></div>
+        </content>
 
-    <main class="container2">
-      <div class="form-group">
-        <label class="form-label" for="input-example-3">Subject/Title/Topic</label>
-        <textarea class="form-input" id="input-example-3" placeholder="write here" rows="3"></textarea>
-      </div>
+        <content class="people">
+          <div class="btn-action"><i class="icon icon-people"></i></div>
+          <text class="time-text"></text>
+        </content>
 
-      <div class="form-group">
-        <label class="form-label" for="input-example-3">Notes</label>
-        <textarea class="form-input" id="input-example-3" placeholder="write notes here" rows="3"></textarea>
-      </div>
-    </main>
+        <content class="date">
+          <div class="btn-action"><i class="icon icon-time"></i></div>
+          <text class="date-text"></text>
+        </content>
+      </main>
 
-    <main class="container3">
-      <div class="form-group">
-        <label class="form-label" for="input-example-1">Username/Author</label>
-        <input class="form-input" type="text" id="input-example-1" placeholder="Name">
-      </div>
+      <content class="container-main">
+        <main class="container2">
+          <article class="wendiBox">
+            <header class="wendiText">Wendi</header>
+          </article>
 
-      <div class="form-group">
-        <label class="form-label" for="input-example-1">Date</label>
-        <input class="form-input" type="text" id="input-example-1" placeholder="Name">
-      </div>
+          <article class="wendiQuote">
+            <header class="wendiQ">Hey, Wendi here! What are you working on today?</header>
+          </article>
 
-      <button class="btn btn-primary">New Post</button>
-      <button class="btn btn-primary">Save</button>
-      <button class="btn btn-primary">Delete</button>
-    </main>
-    
+          <div class="form-group">
+            <label class="form-label" for="input-example-1"></label>
+            <input class="form-input" type="text" id="input-example-1" placeholder="Subject/Title/Topic" rows="3">
+          </div>
+          
+          <div class="form-group">
+            <label class="form-label" for="input-example-3"></label>
+            <textarea class="form-input" id="input-example-3" placeholder="Notes" rows="3"></textarea>
+          </div>
+        </main>
+
+        <main class="container4">
+          <main class="addBtn">
+            <button class="btn btn-primary" id="btn"><i class="icon icon-plus"></i></button>
+          </main>
+
+          <main class="s-dBtn">
+            <button class="btn btn-primary s-circle" id="btn"><i class="icon icon-check"></i></button>
+            <button class="btn btn-primary s-circle" id="btn"><i class="icon icon-cross"></i></button>
+          </main>
+        </main>
+      </content>
+    </content>
+
     <script type="text/javascript" src="js/home.js"></script>
   </body>
-
 </html>
