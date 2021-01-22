@@ -9,6 +9,8 @@
       integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
       crossorigin="anonymous"
     ></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap" rel="stylesheet">
     <link
       rel="stylesheet"
       href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/lumen/bootstrap.min.css"
@@ -22,13 +24,17 @@
         <div class="navbar-header"></div>
       </div>
     </nav>
+    <main id="login-main">
+    <content class="pic">
+      <div class="picture"></div>
+    </content>
     <div class="container">
       <div class="row">
         <div class="col-md-6 col-md-offset-3">
-          <h2>Sign Up Form</h2>
+          <h2 class="font-style" id="sign-up-form">Sign Up Form</h2>
           <form class="signup">
             <div class="form-group">
-              <label for="exampleInputEmail1">Email address</label>
+              <label for="exampleInputEmail1" class="font-style">Email address</label>
               <input
                 type="email"
                 class="form-control"
@@ -37,7 +43,7 @@
               />
             </div>
             <div class="form-group">
-              <label for="exampleInputPassword1">Password</label>
+              <label for="exampleInputPassword1" class="font-style">Password</label>
               <input
                 type="password"
                 class="form-control"
@@ -57,14 +63,14 @@
               ></span>
               <span class="sr-only">Error:</span> <span class="msg"></span>
             </div>
-            <button type="submit" class="btn btn-default">Sign Up</button>
+            <button type="submit" class="btn btn-default" class="font-style">Sign Up</button>
           </form>
           <br />
-          <p>Or log in <a href="/login">here</a></p>
+          <p class="font-style">Or log in <a href="/login">here</a></p>
         </div>
       </div>
     </div>
-
+  </main>
     <script type="text/javascript" src="js/signup.js"></script>
   </body>
 </html>

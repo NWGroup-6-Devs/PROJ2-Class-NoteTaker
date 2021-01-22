@@ -97,3 +97,20 @@ form.signup, form.login {
   font-size: 50px;
   font-style: italic;
 }
+
+#login-main{
+  display: flex;
+  flex-direction: column;
+  height:auto;
+  width: 100%;
+  padding-left: 25px;
+}
+
+.font-style{
+  font-family: 'Merriweather', serif;
+  color: orange;
+}
+
+#sign-up-form{
+  font-size: 50px;
+}
