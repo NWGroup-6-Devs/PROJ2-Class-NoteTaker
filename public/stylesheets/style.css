@@ -111,6 +111,10 @@ form.signup, form.login {
   color: orange;
 }
 
-#sign-up-form{
+#font-form{
   font-size: 50px;
+}
+
+#font-form2{
+  font-size: 50px
 }
