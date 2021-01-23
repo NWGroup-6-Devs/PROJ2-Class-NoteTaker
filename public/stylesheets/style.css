@@ -44,6 +44,13 @@ form.signup, form.login {
   margin: 2px;
 }
 
+.inputs-main {
+  width: 750px;
+  height: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .main-1 {
   align-self: center;
   display: flex;
