@@ -91,12 +91,13 @@ form.signup, form.login {
 }
 
 .wendiBox {
+  background: orange;
   float: right;
-  height: 100px;
+  height: 80px;
   margin: 8px;
   padding: 3px;
   text-align: center;
-  width: 250px;
+  width: 200px;
 }
 
 .wendiQ {
@@ -122,6 +123,16 @@ form.signup, form.login {
   font-size: 15px;
   padding: 10px;
 }
+
+.movement-link {
+  color: red;
+}
+
+.link {
+  color: green;
+}
+
+
 
 .wendiHeader {
   color: orange;
