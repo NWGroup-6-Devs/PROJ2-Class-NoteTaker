@@ -131,3 +131,11 @@ form.signup, form.login {
 #font-form2{
   font-size: 50px
 }
+
+#toast-text{
+  color:whitesmoke;
+  font-size: 15px;
+  font-style: italic;
+  background-color: black;
+  font-family: 'Merriweather', serif;
+}
