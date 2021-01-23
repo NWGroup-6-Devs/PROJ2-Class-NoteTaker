@@ -9,7 +9,8 @@ Our application utilizes SQL to store user data and other information (e.g., tim
 
 ## Installation
 To access our application, click on the following link (INSERT LINK HERE). If you have successfully reached the web page, you will see the landing page below:
-(INSERT PICTURE OF APPLICATION HERE)
+
+![WENDI_login_page_finished](https://user-images.githubusercontent.com/71603259/105611740-19cf9480-5d85-11eb-861d-3132c517cb04.GIF)
 
 Note: This page will ask the user to enter their log-in credentials (i.e., the username and password they created with their account). Please note that a user will not be able to access additional web pages or utilize the applications various functions before an account has been created.
 
