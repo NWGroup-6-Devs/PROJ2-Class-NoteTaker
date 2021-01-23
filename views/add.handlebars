@@ -1,7 +1,9 @@
 <section id="add" class="container">
     <div class="form-wrap">
+
         <h1>Add A Note</h1>
         <p>Your contact email will be shared with the teacher</p>
+
         {{#each errors}}
         <div class="error">
             <p>{{text}}</p>
@@ -17,6 +19,7 @@
                 <label for="description">Note Description</label>
                 <textarea name="description" id="description" class="input-box"
                     placeholder="What do we need to save for later?" rows="10">{{description}}</textarea>
+
             </div>
             <div class="input-group">
                 <label for="budget">Contact Email</label>
@@ -24,6 +27,7 @@
                     placeholder="Enter an email" value={{contact_email}}>
             </div>
             <input type="submit" value="Add Note" class="btn btn-reverse">
+
         </form>
     </div>
 </section>
