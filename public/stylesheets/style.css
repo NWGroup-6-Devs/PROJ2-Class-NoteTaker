@@ -180,3 +180,26 @@ form.signup, form.login {
   background-color: black;
   font-family: 'Merriweather', serif;
 }
+
+.title{
+  font-family: 'Merriweather', serif;
+  color:black;
+  font-style: bold;
+  font-size: 50px
+}
+
+.wendiHeader{
+  font-family: 'Merriweather', serif;
+  color:black;
+  font-size: 25px;
+}
+
+.wendiArchive{
+  font-family: 'Merriweather', serif;
+  font-style: italic;
+  font-size: 25px;
+}
+
+.wendiArchive-back{
+color:orange;
+}
