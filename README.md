@@ -8,9 +8,9 @@ Wendi, your personalized note-taking application, allows you to do all the above
 Our application utilizes SQL to store user data and other information (e.g., time stamps), which can be retrieved from the back-end database and displayed on the web page via user requests. Additionally, users’ log-in credentials will also be recorded and saved in a database created via SQL.
 
 ## Installation
-To access our application, click on the following link (INSERT LINK HERE). If you have successfully reached the web page, you will see the landing page below:
+To access our application, click on the following link (https://wendi-notes-app.herokuapp.com/). If you have successfully reached the web page, you will see the landing page below:
 
-![WENDI_login_page_finished](https://user-images.githubusercontent.com/71603259/105611740-19cf9480-5d85-11eb-861d-3132c517cb04.GIF)
+![WENDI_login_page_finished](./assets/loginformSS.png)
 
 Note: This page will ask the user to enter their log-in credentials (i.e., the username and password they created with their account). Please note that a user will not be able to access additional web pages or utilize the applications various functions before an account has been created.
 
@@ -25,7 +25,7 @@ This web page was created using HTML, CSS, JavaScript, SQL, Handlebars, node, ex
 During the initial stages of the project, we used a wire-framing tool to create a blueprint for the web page, which helped us visualize and establish a preliminary structural layout. An ossature was created for each individual page of our application. Below, please find images of our initial schematics, which were created on wireframe.cc. For purposes of consistency, we based the design for the sign-up page on the schematic for the user log-in page.
 
 User Log-In
-![WENDI_Wireframe_User_LogIn (2)](https://user-images.githubusercontent.com/71603259/105117610-c61a2e00-5a9a-11eb-8563-c8ffb6b01eb7.GIF)
+![WENDI_Wireframe_User_LogIn (2)](./assets/loginformSS.png)
 
 Note Creator
 ![WENDI_Wireframe_User_Interface (1)](https://user-images.githubusercontent.com/71603259/105117573-b7337b80-5a9a-11eb-8540-e4083800eda6.GIF)
