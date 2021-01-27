@@ -25,7 +25,7 @@ This web page was created using HTML, CSS, JavaScript, SQL, Handlebars, node, ex
 During the initial stages of the project, we used a wire-framing tool to create a blueprint for the web page, which helped us visualize and establish a preliminary structural layout. An ossature was created for each individual page of our application. Below, please find images of our initial schematics, which were created on wireframe.cc. For purposes of consistency, we based the design for the sign-up page on the schematic for the user log-in page.
 
 User Log-In
-![WENDI_Wireframe_User_LogIn (2)](./assets/loginformSS.png)
+![WENDI_Wireframe_User_LogIn (2)](https://user-images.githubusercontent.com/71603259/105934057-7351f080-601d-11eb-821c-28a495b6bff4.GIF)
 
 Note Creator
 ![WENDI_Wireframe_User_Interface (1)](https://user-images.githubusercontent.com/71603259/105117573-b7337b80-5a9a-11eb-8540-e4083800eda6.GIF)
